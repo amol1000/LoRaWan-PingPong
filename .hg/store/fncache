@@ -1,0 +1,5 @@
+data/mbed.bld.i
+data/SX1276Lib.lib.i
+data/SX1272Lib.lib.i
+data/main.cpp.i
+data/main.h.i

@@ -1,0 +1,4 @@
+^BUILD$
+^.mbed$
+^SX1276Lib$
+^mbed-os$
